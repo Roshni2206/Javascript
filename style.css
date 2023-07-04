@@ -1,0 +1,28 @@
+.navbar{
+    position:relative;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    background-color:aqua;
+    color:black;
+    padding:25px 60px;
+    margin-bottom: 30px;
+}
+
+.cart{
+    position:relative;
+    background-color:#fff;
+    color:#212529;
+    font-size: 30px;
+    padding: 5px;
+    border-radius: 4px;
+    margin:10px;
+}
+
+
+#xyz{
+    position: absolute; 
+    top:30px;
+    Left:1000px;
+    z-index: 1;
+    }
